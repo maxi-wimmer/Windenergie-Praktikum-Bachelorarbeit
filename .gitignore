@@ -1,0 +1,10 @@
+# Nicht öffentliche Messdaten
+Daten/
+
+# MATLAB-Sicherungsdateien
+*.asv
+*.m~
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
