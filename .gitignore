@@ -1,9 +1,13 @@
-# Nicht öffentliche Messdaten
+# Messdaten werden ausschließlich im Release-Downloadpaket veröffentlicht
 Daten/
 
-# MATLAB-Sicherungsdateien
+# Vollständige Downloadpakete gehören nicht in das Repository
+*.zip
+
+# MATLAB-Sicherungs- und temporäre Dateien
 *.asv
 *.m~
+*.autosave
 
 # Betriebssystemdateien
 .DS_Store
